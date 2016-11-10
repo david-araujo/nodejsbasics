@@ -1,11 +1,11 @@
 var http = require('http');
-
+var url  = require('url');
 // FS (File System) module allows to manipulate files from the OS.
 var fs   = require('fs');
 
 var server = http.createServer(function(request, response){
 
-    var dest = request.url;
+    var dest = url.parse(request.url).pathname;
 
     console.log(dest);
 
