@@ -1,8 +1,11 @@
 # NodeJS Basics
 
+Studies and examples based on book **_"Aplicações web realtime com Node.js"_**.
+Author: **_Caio Ribeiro Pereira_**
+
 ## Requirements:
 
-- **_NodeJS_** [nodejs.org](https://nodejs.org/) - Use the last version available.
+- **_NodeJS_** [nodejs.org](https://nodejs.org/) - Use the last version available. If you are MAC or Linux user I recommend that you use **NVM** [nvm.sh](https://github.com/creationix/nvm/blob/master/README.markdown)
 - **Good knowledge in JavaScript**
 
 
